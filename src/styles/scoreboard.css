@@ -1,0 +1,12 @@
+.scoreboard {
+    display: flex;
+    gap: 2rem;
+    margin: auto;
+    justify-content: center;
+}
+
+h3,p {
+    text-align: center;
+    margin: 0;
+    padding: 0.5rem;
+}

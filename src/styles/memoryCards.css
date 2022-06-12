@@ -1,0 +1,20 @@
+.memoryBoard {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin: auto;
+    padding: 1rem 2rem;
+    justify-items: center;
+    width: fit-content;
+}
+
+.memoryCard {
+    background-color: #ffe7ed;
+    width: fit-content;
+}
+.memoryCard>img {
+    padding: 1rem;
+    width: 90px;
+    height: 115px;
+}
