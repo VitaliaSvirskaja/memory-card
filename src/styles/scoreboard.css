@@ -1,6 +1,6 @@
 .scoreboard {
     display: flex;
-    gap: 2rem;
+    gap: 1.75rem;
     margin: auto;
     justify-content: center;
 }
